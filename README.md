@@ -142,17 +142,10 @@ docker run -p 8087:8087 weather-api
 
 🔲 Authentication (JWT)
 
-🔲 Redis Caching
-
 🔲 Swagger/OpenAPI Documentation
-
-🔲 GraphQL Support
 
 🔲 Multi-city Support
 
-🔲 CI/CD Pipeline
-
-🔲 ML-based Weather Prediction
 
 👨‍💻 Author
 
