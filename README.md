@@ -52,7 +52,7 @@ Make sure you have these installed:
 
 Bash
 
-☕ Java 17 or higher
+☕ Java 21 or higher
 🗄️ MySQL 8.0+
 📦 Maven 3.6+
 Installation
